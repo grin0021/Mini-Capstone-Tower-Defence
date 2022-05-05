@@ -1,0 +1,3 @@
+-Use mouse click to spawn troops/towers on their respective spawnpoint
+-The browm long rectangle is the troop spawn start,
+and the flat square on the ground is tower spawnpoint
